@@ -1,0 +1,4 @@
+services:
+#    test_serveur.example:
+#        class: Test\ServeurBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
